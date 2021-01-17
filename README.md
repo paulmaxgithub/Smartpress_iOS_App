@@ -7,7 +7,7 @@ About:
 4) static page.
 
 ## Screenshots
-![Screenshot Smartpress 300.png](https://github.com/paulmaxgithub/smartpress/blob/main/Screenshot%20Smartpress%20300.png)
+![Screenshot Smartpress 300.png](https://github.com/paulmaxgithub/Smartpress_iOS_App/blob/master/Screenshot%20Smartpress%20300.png)
 
 
 ## Requirements
