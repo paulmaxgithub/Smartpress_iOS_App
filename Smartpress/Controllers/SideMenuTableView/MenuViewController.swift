@@ -35,7 +35,6 @@ class MenuViewController: UITableViewController {
     }
     
     @objc private func didTapSubscribeButton() {
-        
     }
     
     //MARK: - Table Customization
